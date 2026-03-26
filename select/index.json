@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "コタツから眺める世界地図",
+  "base_artist": "神聖かまってちゃん",
+  "createdAt": "2026-03-26T22:12:33.314934Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "コタツから眺める世界地図",
+      "artist": "エリオをかまってちゃん",
+      "has_synced": true,
+      "path": "select/01_コタツから眺める世界地図_エリオをかまってちゃん.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "コタツから眺める世界地図",
+      "artist": "エリオをかまってちゃん",
+      "has_synced": false,
+      "path": "select/02_コタツから眺める世界地図_エリオをかまってちゃん.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "コタツから眺める世界地図",
+      "artist": "神聖かまってちゃん",
+      "has_synced": false,
+      "path": "select/pl_01_コタツから眺める世界地図_神聖かまってちゃん.txt"
+    }
+  ]
+}
